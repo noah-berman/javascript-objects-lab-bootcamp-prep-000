@@ -1,1 +1,1 @@
-var recipe = new Object()
+var recipe = new Object({pasta: "Water, Grains"})
